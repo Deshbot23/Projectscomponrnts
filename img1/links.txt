@@ -1,0 +1,10 @@
+cap............https://en.wikipedia.org/wiki/Capacitor
+inductor       https://en.wikipedia.org/wiki/Inductor
+diode         https://en.wikipedia.org/wiki/Diode
+mosfet             https://en.wikipedia.org/wiki/MOSFET
+microcontroller           https://en.wikipedia.org/wiki/Microcontroller
+crystal                https://en.wikipedia.org/wiki/Crystal_oscillator
+voltage regulator        https://en.wikipedia.org/wiki/Voltage_regulator
+led                 https://en.wikipedia.org/wiki/Light-emitting_diode
+transister              https://en.wikipedia.org/wiki/Transistor
+relay             https://en.wikipedia.org/wiki/Relay
